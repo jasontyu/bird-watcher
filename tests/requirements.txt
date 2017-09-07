@@ -1,0 +1,5 @@
+tweepy
+matplotlib
+nltk
+json
+sklearn
