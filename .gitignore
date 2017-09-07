@@ -1,4 +1,12 @@
+# Output of birdwatcher/watch.py
 birdwatcher/journal
+
+# Test data for birdlearner, which may include data from birdwatcher
 birdlearner/data
-birdwatcher/secret.py
+
+# Authentication information for birdwatcher
+birdwatcher/secrets.py
+
+# Misc
+.DS_Store
 *.pyc
